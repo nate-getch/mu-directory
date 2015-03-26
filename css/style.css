@@ -1,0 +1,10 @@
+.container-mid{
+	margin: 0px auto;
+	max-width: 750px;
+}
+.header{
+	text-align:center;
+}
+.hidden{
+	display:none;
+}
